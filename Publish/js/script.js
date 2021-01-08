@@ -1,4 +1,0 @@
-
-
-    window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":958},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-tourism","displayName":"Tourism","link":{"linkType":"LinkTypePage","href":"#!page-tourism"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-tarif","displayName":"Tarif","link":{"linkType":"LinkTypePage","href":"#!page-tarif"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-info","displayName":"Info","link":{"linkType":"LinkTypePage","href":"#!page-info"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false}]}
